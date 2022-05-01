@@ -1,0 +1,14 @@
+export const logo = require('./logo.png');
+export const primary = require('./primary.png');
+export const secondary = require('./secondary.png');
+export const cover = require('./cover.png');
+export const ternary = require('./ternary.png');
+export const forth = require('./forth.png');
+export const person = require('./cartoon1.png');
+export const logo1 = require('./logo1.png');
+export const baloons = require('./baloons.png');
+export const clock = require('./clock.png');
+export const award = require('./award.png');
+export const ticket = require('./ticket.png');
+export const gift = require('./gift.png');
+export const arrow = require('./arrow.png');
